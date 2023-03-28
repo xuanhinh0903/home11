@@ -1,0 +1,1108 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins";
+}
+
+.Home {
+}
+
+.bgtop {
+  background-image: url(./img/background1/Slide\ Background.svg);
+  background-repeat: no-repeat;
+  max-width: 1519.2px;
+  height: 810px;
+  margin: 0 auto;
+}
+
+.bgAbout {
+  background-image: url(./img/background2/Background\ Bubble.svg);
+  max-width: 1519.2px;
+  margin: 0 auto;
+  background-repeat: no-repeat;
+  background-position: 100% 146%;
+  padding-bottom: 142.2px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.textCenter {
+  text-align: center;
+}
+
+.textPink {
+  color: #ff64ae;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 125%;
+}
+
+.spaceBeet {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1160px;
+  margin: 0 auto;
+}
+
+.textContact {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 125%;
+  color: #ff64ae;
+}
+
+.flexEmail {
+  display: flex;
+}
+
+.numberPhone {
+  font-family: "Poppins";
+  font-style: italic;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: 0.1em;
+  color: #d7dbff;
+}
+
+.numberPhone:nth-child(1) {
+  margin-right: 30px;
+}
+
+.textOptionSmal {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.1em;
+  color: #d7dbff;
+}
+
+.iconFooter {
+  margin-right: 8px;
+}
+
+.textBoldContact {
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 125%;
+  color: #091156;
+  max-width: 370px;
+}
+
+.textBoldFooter {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  letter-spacing: 0.1em;
+  margin-bottom: 24px;
+  color: #ffffff;
+}
+
+.textContactBlur {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.1em;
+  color: #8b8b8b;
+}
+
+.blockContact {
+  max-width: 520px;
+}
+
+.mgbt12 {
+  margin-bottom: 12px;
+}
+
+.container {
+  max-width: 1160px;
+  margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 45px;
+  margin-bottom: 212px;
+}
+
+.optionSelect {
+  display: none;
+}
+
+.textServices {
+  max-width: 732px;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 125%;
+  text-align: center;
+  color: #091156;
+  margin: 0 auto;
+}
+
+.textSmallServices {
+  max-width: 746px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  color: #8b8b8b;
+  margin: 0 auto;
+}
+
+.fullLogo {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.logBG {
+  background-image: url(./img/logo/Ellipse\ BG.svg);
+  background-repeat: no-repeat;
+  width: 64.44px;
+  height: 63px;
+  margin-right: 34.78px;
+  position: relative;
+}
+
+.dotWhile1 {
+  position: absolute;
+  top: 11px;
+  left: 12px;
+}
+
+.dotWhile2 {
+  position: absolute;
+  top: 23px;
+  left: 25.57px;
+}
+
+.rectangblue {
+  position: absolute;
+  top: 26px;
+  left: 39.89px;
+}
+
+.textLogo {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: 0.1em;
+  color: #091156;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+.mgbt82 {
+  margin-bottom: 82px;
+}
+
+.mgleft22 {
+  margin-right: 22px;
+}
+
+.mgbt318 {
+  margin-bottom: 212px;
+}
+
+.mgbt131 {
+  margin-bottom: 131px;
+}
+
+.mgbt144 {
+  margin-bottom: 144px;
+}
+
+.listOption {
+  display: flex;
+}
+
+.btContact {
+  width: 161.6px;
+  height: 52px;
+  background: #ff64ae;
+  border-radius: 50px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.1em;
+  color: #ffffff;
+  border: none;
+  margin-left: 53.19px;
+  cursor: pointer;
+}
+
+.option {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.1em;
+  color: #8b8b8b;
+  margin-left: 48.07px;
+  cursor: pointer;
+}
+
+.optionHome {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.1em;
+  color: #414880;
+  cursor: pointer;
+}
+
+.textBold {
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 125%;
+  color: #091156;
+  max-width: 430px;
+}
+
+.textSmall {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.1em;
+  color: #091156;
+  max-width: 410px;
+  margin-bottom: 28px;
+}
+
+.btDetail {
+  width: 200px;
+  height: 58.36px;
+  background: #ff64ae;
+  box-shadow: 0px 17px 22px #ffedf6;
+  border-radius: 50px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  color: #ffffff;
+  border: none;
+}
+
+.btBlur {
+  width: 14.82px;
+  height: 3.09px;
+  background: #eeeeee;
+  border-radius: 50px;
+  cursor: pointer;
+  transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.btBold {
+  width: 25.31px;
+  height: 8.15px;
+  background: #414880;
+  border-radius: 50px;
+  transform: matrix(1, 0, 0, -1, 0, 0);
+  margin: 0 8px;
+  cursor: pointer;
+}
+
+.textImgSer {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 125%;
+  color: #091156;
+  text-align: center;
+  margin-bottom: 6px;
+}
+
+.mgright22 {
+  margin-right: 22px;
+}
+
+.textImgSerBlur {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: 0.1em;
+  color: #8b8b8b;
+  max-width: 240px;
+  margin: 0 auto 52px;
+  text-align: center;
+}
+
+.centerSpace {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.inputName {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 38.32px;
+}
+
+.imgContact {
+  margin-top: 139px;
+}
+
+.inputNameText {
+  padding: 17px 23px 17px 24px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.1em;
+  color: #c5c5c5;
+  border-radius: 15px;
+  background: #ffffff;
+  border: 1px solid #d9ddfe;
+  outline: none;
+}
+
+.inputNameText:nth-child(1) {
+  margin-right: 35px;
+}
+
+.inputEmail {
+  padding: 17px 300.8px 17px 24px;
+  background: #ffffff;
+  border: 1px solid #d9ddfe;
+  border-radius: 15px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  outline: none;
+  margin-bottom: 38.32px;
+}
+
+.maxWid1140 {
+  max-width: 1140px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 0 auto 114.44px;
+}
+
+.inquiry {
+  padding: 25px 317.6px 86px 24px;
+  outline: none;
+  background: #ffffff;
+  border: 1px solid #d9ddfe;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  border-radius: 15px;
+  margin-bottom: 38.32px;
+}
+
+.imgSer {
+  padding: 59px 88px 58px 89px;
+}
+
+.blockSer {
+  background: #ffffff;
+  box-shadow: 0px 25px 50px 25px #f7f7ff;
+  border-radius: 42px;
+}
+
+.imgAbout {
+  margin-right: -48px;
+  max-width: 476px;
+}
+
+.textBoldAbout {
+  max-width: 664px;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 125%;
+  color: #091156;
+}
+
+.textSmallAbout {
+  width: 483px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.1em;
+  color: #8b8b8b;
+  margin-bottom: 49px;
+}
+
+.btAbout {
+  width: 200px;
+  height: 58.36px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  color: #ffffff;
+  background: #ff64ae;
+  box-shadow: 0px 17px 22px #ffedf6;
+  border-radius: 50px;
+  border: none;
+  margin-right: 44px;
+  cursor: pointer;
+}
+
+.mgRight12 {
+  margin-right: 12px;
+}
+
+.mgBt44 {
+  margin-bottom: 44px;
+}
+
+.textAbSmall {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.1em;
+  color: #8b8b8b;
+}
+
+.btImgAbout {
+  display: flex;
+  align-items: center;
+  border: none;
+  background-color: #ff000000;
+  cursor: pointer;
+}
+
+.blockBtAbout {
+  display: flex;
+  align-items: center;
+  justify-self: center;
+}
+
+.textProfess {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 125%;
+  text-align: center;
+  color: #ff64ae;
+}
+
+.textProfessBig {
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 125%;
+  text-align: center;
+  color: #091156;
+}
+
+.textProfessBlur {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  color: #8b8b8b;
+}
+
+.mgBt87 {
+  margin-bottom: 87px;
+}
+
+.textProfePink {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 125%;
+  color: #ff64ae;
+  margin-bottom: 15px;
+}
+
+.textProfesBold {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 125%;
+  color: #091156;
+  margin-bottom: 6px;
+}
+
+.textProfesBulr {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: 0.1em;
+  color: #8b8b8b;
+  max-width: 267px;
+  margin: 0 auto 50px;
+}
+
+.mgbt33 {
+  margin-bottom: 33px;
+}
+
+.bold {
+  font-weight: 600 !important;
+  color: #ffffff;
+  display: inline;
+}
+
+.textFooter {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.1em;
+  color: #d7dbff;
+  margin-bottom: 26px;
+}
+
+.steet {
+  font-family: "Poppins";
+  font-style: italic;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: 0.1em;
+  color: #d7dbff;
+}
+
+.iconSelect {
+  margin-right: 45px;
+  cursor: pointer;
+}
+
+.textInfo {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: right;
+  letter-spacing: 0.1em;
+  color: #d7dbff;
+}
+
+.topFlex {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 155px;
+}
+
+.footer {
+  /* background-color: #101fa5; */
+}
+
+.bgFooter {
+  background-image: url(./img/Footer\ BG.svg);
+  background-repeat: no-repeat;
+  max-width: 1519.2px;
+  margin: 0 auto;
+  background-size: 100%;
+  padding-top: 250px;
+  padding-bottom: 120px;
+  max-height: 705px;
+  background-position: 0 100%;
+}
+
+.bgFooterss {
+  background-image: url(./img/Bottom\ BG.svg);
+  background-repeat: no-repeat;
+  max-width: 1519.2px;
+  background-size: 100%;
+  background-position: bottom;
+  margin: 0 auto;
+}
+
+.flexBottom {
+  display: flex;
+  justify-content: space-between;
+}
+
+.listIcon {
+  padding-bottom: 96px;
+}
+
+.imgProfes {
+  padding: 91px 139px 53px;
+}
+
+.imgProfesExtra {
+  padding: 91px 120px 53px;
+}
+
+.positionTop {
+  position: fixed;
+  right: 80px;
+  bottom: 133px;
+  cursor: pointer;
+}
+
+.blockProfess {
+  max-width: 424px;
+  text-align: center;
+}
+
+.blockProfessExtra {
+  text-align: center;
+}
+.blockProfess:nth-child(2) {
+  background: #ffffff;
+  box-shadow: 0px 25px 50px 25px #f7f7ff;
+  border-radius: 42px;
+}
+
+.bgContact {
+  background-image: url(./img/background3/Background\ Bubble.svg);
+  background-repeat: no-repeat;
+  max-width: 1519.2px;
+  background-position: 0% 90%;
+  margin: 0 auto 58px;
+}
+
+.textLogoWhite {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: 0.1em;
+  color: #ffffff;
+}
+
+.send {
+  padding: 16px 38px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  background: #ff64ae;
+  box-shadow: 0px 17px 22px #ffedf6;
+  border-radius: 50px;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 1275px) {
+  .imgAbout {
+    margin: 0;
+  }
+  .imgProfesExtra {
+    padding: 91px 80px 53px;
+  }
+}
+
+@media screen and (max-width: 1180px) {
+  .container {
+    max-width: 980px;
+  }
+  .blockSer {
+    margin-bottom: 50px;
+  }
+  .maxWid1140 {
+    max-width: 1140px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0 auto 134.44px;
+  }
+  .spaceBeet {
+    display: block;
+    text-align: center;
+  }
+  .textBoldAbout,
+  .textSmallAbout {
+    margin: 0 auto 20px;
+    width: auto;
+    max-width: 700px;
+  }
+  .blockBtAbout {
+    justify-content: center;
+  }
+  .bgAbout {
+    background-position: 100% 80%;
+  }
+  .blockContact {
+    max-width: 80%;
+  }
+  .inputNameText {
+    width: 80%;
+  }
+  .blockContact,
+  .textBoldContact {
+    margin: 0 auto;
+  }
+  .mgbt144 {
+    margin: 0 auto;
+  }
+  .mgBt87 {
+    margin-bottom: 25px;
+  }
+  .imgContact {
+    margin: 0;
+  }
+
+  .topFlex {
+    display: flex;
+    max-width: 900px;
+    margin: 0 auto 50px;
+  }
+  .flexBottom {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  .inputEmail {
+    width: auto;
+    padding: 17px 564.8px 17px 24px;
+  }
+  .inquiry {
+    padding: 25px 581.6px 86px 24px;
+    outline: none;
+    background: #ffffff;
+    border: 1px solid #d9ddfe;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    border-radius: 15px;
+    margin-bottom: 38.32px;
+  }
+  .send {
+    padding: 26px 126px;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    background: #ff64ae;
+    box-shadow: 0px 17px 22px #ffedf6;
+    border-radius: 50px;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+  }
+}
+
+.optionModalText {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.1em;
+  color: #414880;
+  padding: 10px;
+}
+
+.optionModal {
+  position: fixed;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 300px;
+  background-color: #fef8f8;
+  display: none;
+}
+
+.modal {
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background-color: #d8d8d882;
+  position: fixed;
+  display: none;
+}
+
+.optionModalText:hover {
+  background-color: #ff64ae;
+  cursor: pointer;
+}
+
+.optionModalTextIcon {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.1em;
+  color: #8b8b8b;
+  padding: 10px;
+}
+
+.optionModalTextIcon:hover {
+  background-color: #ff64ae;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 1050px) {
+  .professWrap {
+    display: block;
+  }
+  .blockProfess:nth-child(2) {
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .container {
+    max-width: 750px;
+  }
+  .listOption,
+  .btContact {
+    display: none;
+  }
+  .optionSelect,
+  .flex {
+    display: block;
+    text-align: center;
+  }
+  .textBold,
+  .textSmall {
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+  .btDetail {
+    margin-bottom: 40px;
+  }
+  .alignCenter {
+    text-align: center;
+  }
+  .mgbt318 {
+    margin-bottom: 200px;
+  }
+  .displayc2 {
+    display: none;
+  }
+  .topFlex {
+    display: flex;
+    justify-content: center;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  .inputEmail {
+    width: auto;
+    padding: 17px 380.8px 17px 24px;
+  }
+  .inquiry {
+    padding: 25px 397.6px 86px 24px;
+    outline: none;
+    background: #ffffff;
+    border: 1px solid #d9ddfe;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    border-radius: 15px;
+    margin-bottom: 38.32px;
+  }
+}
+
+@media screen and (max-width: 950px) {
+  .flexBottom {
+    display: none;
+  }
+  .mgbt33 {
+    margin-bottom: 33px;
+    justify-content: center;
+  }
+  .steet {
+    text-align: center;
+  }
+  .flexEmail {
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width: 780px) {
+  .container {
+    max-width: 600px;
+  }
+  .imgSer {
+    padding: 75px 140px;
+  }
+  .inputName {
+    display: block;
+  }
+  .inputNameText:nth-child(1) {
+    margin-right: 0;
+    margin-bottom: 38.32px;
+  }
+
+  .bgFooter {
+    padding-top: 120px;
+  }
+  .topFlex {
+    margin: 0 auto;
+  }
+  .bgFooter {
+    padding-top: 65px;
+  }
+  .logoC1 {
+    position: relative;
+    bottom: -49px;
+  }
+  .inputEmail {
+    width: auto;
+    padding: 17px 213.4px 17px 24px;
+  }
+  .inquiry {
+    padding: 24px 230.2px 86px 24px;
+    outline: none;
+    background: #ffffff;
+    border: 1px solid #d9ddfe;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    border-radius: 15px;
+    margin-bottom: 38.32px;
+  }
+  .positionTop {
+    right: 50px;
+    bottom: 120px;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .container {
+    max-width: 480px;
+  }
+  .imgpersion1 {
+    max-width: 100%;
+  }
+  .imgSer {
+    padding: 59px 88px 58px 89px;
+  }
+  .blockBtAbout {
+    display: block;
+  }
+  .btAbout {
+    margin: 0 0 20px 0;
+    width: 270px;
+  }
+  .btImgAbout {
+    margin: 0 auto;
+  }
+  .imgAbout {
+    max-width: 360px;
+  }
+  .bgFooter {
+    padding-top: 30px;
+  }
+  .bgFooter {
+    padding-bottom: 90px;
+  }
+  .send {
+    padding: 16px 38px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    background: #ff64ae;
+    box-shadow: 0px 17px 22px #ffedf6;
+    border-radius: 50px;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+  }
+  .inputEmail {
+    width: auto;
+    padding: 17px 136.2px 17px 24px;
+  }
+  .inquiry {
+    padding: 24px 153.4px 86px 24px;
+    outline: none;
+    background: #ffffff;
+    border: 1px solid #d9ddfe;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    border-radius: 15px;
+    margin-bottom: 38.32px;
+  }
+}
+
+@media screen and (max-width: 590px) {
+  .imgContact {
+    max-width: 80%;
+  }
+  .flexEmail {
+    display: none;
+  }
+  .inputEmail {
+    padding: 17px 94.6px 17px 24px;
+  }
+  .inquiry {
+    padding: 24px 111.4px 86px 24px;
+    outline: none;
+    background: #ffffff;
+    border: 1px solid #d9ddfe;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    border-radius: 15px;
+    margin-bottom: 38.32px;
+  }
+  .inputEmail {
+    width: 50%;
+    padding: 17px 125.11px 17px 24px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .steet {
+    display: none;
+  }
+  .mgbt33 {
+    margin-bottom: 10px;
+    justify-content: center;
+  }
+  .logoC1 {
+    position: relative;
+    bottom: -76px;
+  }
+  .inputEmail {
+    width: 50%;
+    padding: 17px 116.7px 17px 24px;
+  }
+  .inquiry {
+    padding: 24px 106.45px 86px 24px;
+    outline: none;
+    background: #ffffff;
+    border: 1px solid #d9ddfe;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    border-radius: 15px;
+    margin-bottom: 38.32px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .optionSelect {
+    display: none;
+  }
+  .header {
+    display: flex;
+    margin: 0 auto 100px;
+    justify-content: center;
+  }
+  .mgbt318 {
+    margin-bottom: 100px;
+  }
+  .blockProfess:nth-child(2) {
+    max-width: 300px;
+  }
+  .imgProfes {
+    padding: 91px 77px 53px;
+  }
+}
+
+@media screen and (max-width: 415px) {
+  .textFooter {
+    display: none;
+  }
+  .logoC1 {
+    position: relative;
+    bottom: -52px;
+  }
+}
